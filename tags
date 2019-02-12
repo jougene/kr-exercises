@@ -1,0 +1,9 @@
+!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+fahr2celsius	/Users/evgeniy.sinitsyn/code/kr-exercises/fahr.c	/^int fahr2celsius();$/;"	p	language:C++	file:
+fahr2celsius	/Users/evgeniy.sinitsyn/code/kr-exercises/fahr.c	/^int fahr2celsius(int fahr)$/;"	f	language:C++
+IN	/Users/evgeniy.sinitsyn/code/kr-exercises/wc.c	/^#define IN /;"	d	language:C++	file:
+main	/Users/evgeniy.sinitsyn/code/kr-exercises/fahr.c	/^int main()$/;"	f	language:C++
+main	/Users/evgeniy.sinitsyn/code/kr-exercises/getchar.c	/^int main()$/;"	f	language:C++
+main	/Users/evgeniy.sinitsyn/code/kr-exercises/hello.c	/^int main()$/;"	f	language:C++
+main	/Users/evgeniy.sinitsyn/code/kr-exercises/wc.c	/^int main()$/;"	f	language:C++
+OUT	/Users/evgeniy.sinitsyn/code/kr-exercises/wc.c	/^#define OUT /;"	d	language:C++	file:
